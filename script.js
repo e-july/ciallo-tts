@@ -6,8 +6,8 @@ let isGenerating = false;
 
 const API_CONFIG = {
     'workers-api': {
-        url: 'https://cf-tts-api.zhida.eu.org/tts',
-        authToken: 'tts.zhida.eu.org'
+        url: 'https://1220.tts-api.zwei.de.eu.org/tts',
+        authToken: 'bestZwei1225'
     },
     'deno-api': {
         url: 'https://deno-tts.api.zwei.de.eu.org/tts'
