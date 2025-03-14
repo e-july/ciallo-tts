@@ -14,7 +14,7 @@ const API_CONFIG = {
         authToken: 'Test123'
     },
     'deno-api': {
-        url: 'https://deno-tts.api.zwei.de.eu.org/tts'
+        url: 'https://deno-tts-api.deno.dev/tts'
     }
 };
 
