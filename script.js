@@ -6,7 +6,7 @@ let isGenerating = false;
 
 const API_CONFIG = {
     'workers-api': {
-        url: 'https://cf-tts-api.986353307.workers.dev/',
+        url: 'https://cf-tts-api.zhida.eu.org/tts',
         authToken: 'tts.zhida.eu.org'
     },
     'deno-api': {
