@@ -5,6 +5,10 @@ let requestCounter = 0;
 let isGenerating = false;
 
 const API_CONFIG = {
+    // 'workers-api': {
+    //     url: 'https://1220.tts-api.zwei.de.eu.org/tts',
+    //     authToken: 'bestZwei1225'
+    // },
     'workers-api': {
         url: 'https://cf-tts-api.zhida.eu.org/tts',
         authToken: 'Test123'
